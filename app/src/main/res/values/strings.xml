@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proj_ContaBancaria</string>
+    <string name="cliente"> Cliente</string>
+    <string name="num_conta">Número da Conta</string>
+    <string name="saldo">Saldo R$</string>
+    <string name="rendimento">Dia Rendimento</string>
+    <string name="limite">Limite R$</string>
+    <string name="valorOp">Valor Operação</string>
+    <string name="poupanca">Conta Poupança</string>
+    <string name="especial">Conta Especial</string>
+    <string name="Criar">Criar Conta</string>
+    <string name="sacar">Sacar</string>
+    <string name="Depositar">Depositar</string>
+    </resources>
